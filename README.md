@@ -1,2 +1,0 @@
-# firstRProject
-SCEM firstProject
